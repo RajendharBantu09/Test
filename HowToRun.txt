@@ -1,0 +1,17 @@
+*(Create the table first on your exiting database then change connection String in webconfig and appconfing(which is inside DALShopBridge) .
+or
+execute Script that will create database and table on your sql server).
+
+*Solution_ShopBridge->ShopBridge ->ShopBridge .sln (doubleclick)  
+
+*Open Postman or Fiddler 
+
+*Select GET or Post and Copy url and
+
+*copy the requst as json(if the api have)
+
+ShopBridgeDoc is attached please find it.
+
+
+
+

@@ -1,0 +1,57 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6": []
+  },
+  "packageFolders": {
+    "C:\\Users\\BANTU\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\BANTU\\Solution_ThinkBridge\\ShopBridge.Model\\ShopBridge.Model.csproj",
+      "projectName": "ShopBridge.Model",
+      "projectPath": "C:\\BANTU\\Solution_ThinkBridge\\ShopBridge.Model\\ShopBridge.Model.csproj",
+      "packagesPath": "C:\\Users\\BANTU\\.nuget\\packages\\",
+      "outputPath": "C:\\BANTU\\Solution_ThinkBridge\\ShopBridge.Model\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\BANTU\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net46"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net46": {
+          "targetAlias": "net4.6",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net46": {
+        "targetAlias": "net4.6",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

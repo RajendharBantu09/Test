@@ -1,0 +1,26 @@
+GO
+
+/****** Object:  Table [dbo].[ShopInventory]    Script Date: 25-04-2021 16:12:13 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[ShopInventory](
+	[ID] [bigint] IDENTITY(1,1) NOT NULL,
+	[ItemType] [nvarchar](250) NULL,
+	[ItemName] [nvarchar](250) NULL,
+	[Price] [decimal](18, 2) NULL,
+	[Quantity] [bigint] NULL,
+	[CreatedDate] [datetime] NULL,
+	[CreatedBy] [bigint] NULL,
+	[ModifiedDate] [datetime] NULL,
+	[ModifiedBy] [bigint] NULL,
+	[Description] [nvarchar](max) NULL,
+ CONSTRAINT [PK_ShopInventory] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO

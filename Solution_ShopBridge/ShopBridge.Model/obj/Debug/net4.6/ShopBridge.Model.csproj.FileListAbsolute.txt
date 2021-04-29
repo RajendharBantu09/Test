@@ -1,0 +1,8 @@
+C:\BANTU\Solution_ThinkBridge\ShopBridge.Model\bin\Debug\net4.6\ShopBridge.Model.dll
+C:\BANTU\Solution_ThinkBridge\ShopBridge.Model\bin\Debug\net4.6\ShopBridge.Model.pdb
+C:\BANTU\Solution_ThinkBridge\ShopBridge.Model\obj\Debug\net4.6\ShopBridge.Model.csprojAssemblyReference.cache
+C:\BANTU\Solution_ThinkBridge\ShopBridge.Model\obj\Debug\net4.6\ShopBridge.Model.AssemblyInfoInputs.cache
+C:\BANTU\Solution_ThinkBridge\ShopBridge.Model\obj\Debug\net4.6\ShopBridge.Model.AssemblyInfo.cs
+C:\BANTU\Solution_ThinkBridge\ShopBridge.Model\obj\Debug\net4.6\ShopBridge.Model.csproj.CoreCompileInputs.cache
+C:\BANTU\Solution_ThinkBridge\ShopBridge.Model\obj\Debug\net4.6\ShopBridge.Model.dll
+C:\BANTU\Solution_ThinkBridge\ShopBridge.Model\obj\Debug\net4.6\ShopBridge.Model.pdb

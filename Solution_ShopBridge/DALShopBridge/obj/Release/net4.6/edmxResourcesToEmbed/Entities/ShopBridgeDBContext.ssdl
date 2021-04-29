@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbShopBridgeModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ShopInventory">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ItemType" Type="nvarchar" MaxLength="250" />
+    <Property Name="ItemName" Type="nvarchar" MaxLength="250" />
+    <Property Name="Price" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Quantity" Type="bigint" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="CreatedBy" Type="bigint" />
+    <Property Name="ModifiedDate" Type="datetime" />
+    <Property Name="ModifiedBy" Type="bigint" />
+    <Property Name="Description" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityContainer Name="dbShopBridgeModelStoreContainer">
+    <EntitySet Name="ShopInventory" EntityType="Self.ShopInventory" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,15 @@
+C:\BANTU\Solution_ThinkBridge\BLLShopeBridge\obj\Debug\net4.6\BLLShopeBridge.csprojAssemblyReference.cache
+C:\BANTU\Solution_ThinkBridge\BLLShopeBridge\obj\Debug\net4.6\BLLShopeBridge.AssemblyInfoInputs.cache
+C:\BANTU\Solution_ThinkBridge\BLLShopeBridge\obj\Debug\net4.6\BLLShopeBridge.AssemblyInfo.cs
+C:\BANTU\Solution_ThinkBridge\BLLShopeBridge\obj\Debug\net4.6\BLLShopeBridge.csproj.CoreCompileInputs.cache
+C:\BANTU\Solution_ThinkBridge\BLLShopeBridge\bin\Debug\net4.6\BLLShopeBridge.dll
+C:\BANTU\Solution_ThinkBridge\BLLShopeBridge\bin\Debug\net4.6\BLLShopeBridge.pdb
+C:\BANTU\Solution_ThinkBridge\BLLShopeBridge\bin\Debug\net4.6\EntityFramework.dll
+C:\BANTU\Solution_ThinkBridge\BLLShopeBridge\bin\Debug\net4.6\DALShopBridge.dll
+C:\BANTU\Solution_ThinkBridge\BLLShopeBridge\bin\Debug\net4.6\ShopBridge.Model.dll
+C:\BANTU\Solution_ThinkBridge\BLLShopeBridge\bin\Debug\net4.6\DALShopBridge.pdb
+C:\BANTU\Solution_ThinkBridge\BLLShopeBridge\bin\Debug\net4.6\DALShopBridge.dll.config
+C:\BANTU\Solution_ThinkBridge\BLLShopeBridge\bin\Debug\net4.6\ShopBridge.Model.pdb
+C:\BANTU\Solution_ThinkBridge\BLLShopeBridge\obj\Debug\net4.6\BLLShopeBridge.csproj.CopyComplete
+C:\BANTU\Solution_ThinkBridge\BLLShopeBridge\obj\Debug\net4.6\BLLShopeBridge.dll
+C:\BANTU\Solution_ThinkBridge\BLLShopeBridge\obj\Debug\net4.6\BLLShopeBridge.pdb

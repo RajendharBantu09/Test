@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net4.6</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Entities\ShopBridgeDBContext.edmx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EntityDeploy Include="Entities\ShopBridgeDBContext.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>ShopBridgeDBContext.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShopBridge.Model\ShopBridge.Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Security" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Service Include="{508349b6-6b84-4df5-91f0-309beebad82d}" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Entities\ShopBridgeDBContext.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>ShopBridgeDBContext.edmx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+</Project>
